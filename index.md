@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!-- saved from url=(0028)https://fengbintu.github.io/ -->
 <html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
