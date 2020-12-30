@@ -12,9 +12,6 @@
 
 <!-- End Jekyll SEO tag -->
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <link rel="stylesheet" href="./About Me _ Fengbin Tu_files/style.css">
   </head>
   <body data-new-gr-c-s-check-loaded="14.990.0" data-gr-ext-installed="">
     <section class="page-header">
