@@ -10,11 +10,9 @@
 <meta property="og:locale" content="en_US">
 <meta name="description" content="Welcome to Haroon’s homepage.">
 <meta property="og:description" content="Welcome to Haroon Ahmed’s homepage.">
-<link rel="canonical" href="https://fengbintu.github.io/">
-<meta property="og:url" content="https://fengbintu.github.io/">
-<meta property="og:site_name" content="Fengbin Tu">
+]
 <script type="application/ld+json">
-{"@type":"WebSite","name":"Haroon Ahmed","headline":"About Me","url":"https://fengbintu.github.io/","description":"Welcome to Haroon Ahmed’s homepage.","@context":"https://schema.org"}</script>
+{"@type":"WebSite","name":"Haroon Ahmed","headline":"About Me","url":"https://haroon.ahmed.github.io/","description":"Welcome to Haroon Ahmed’s homepage.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -74,7 +72,7 @@
 <p>Email2: haroon.ahmed@kaist.edu.kr</p>
 
 
-    </section>
+   
 
     
   
