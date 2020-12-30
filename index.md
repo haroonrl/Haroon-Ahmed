@@ -4,15 +4,12 @@
     
 
 <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>About Me | Haroon Ahmed</title>
-<meta name="generator" content="Jekyll v3.9.0">
-<meta property="og:title" content="About Me">
+
 <meta property="og:locale" content="en_US">
 <meta name="description" content="Welcome to Haroon’s homepage.">
 <meta property="og:description" content="Welcome to Haroon Ahmed’s homepage.">
 ]
-<script type="application/ld+json">
-{"@type":"WebSite","name":"Haroon Ahmed","headline":"About Me","url":"https://haroon.ahmed.github.io/","description":"Welcome to Haroon Ahmed’s homepage.","@context":"https://schema.org"}</script>
+
 <!-- End Jekyll SEO tag -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
