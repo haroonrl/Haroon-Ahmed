@@ -22,10 +22,7 @@
       <h2 class="project-tagline">Welcome to Haroon Ahmed's homepage.</h2>
       
       
-    </section>
-
-    <section class="main-content">
-      <h1 id="about-me">About Me</h1>
+   
 <p>My name is Haroon Ahmed. I’m currently working with Prof. <a href="https://cp.kaist.ac.kr/jeehoon.kang/">Jeehoon Kang</a>, as a PhD Student at the Concurrency and Parallelism Laboratory (CPL), School of Computing, KAIST, Korea. Before joining KAIST, I received my M.E degree from the School of Electrical Engineering, Southeast University,China.</p>
 
 
