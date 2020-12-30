@@ -8,7 +8,7 @@
 <meta property="og:locale" content="en_US">
 <meta name="description" content="Welcome to Haroon’s homepage.">
 <meta property="og:description" content="Welcome to Haroon Ahmed’s homepage.">
-]
+
 
 <!-- End Jekyll SEO tag -->
 
