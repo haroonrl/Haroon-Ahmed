@@ -1,37 +1,82 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<!-- saved from url=(0028)https://fengbintu.github.io/ -->
+<html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
 
-You can use the [editor on GitHub](https://github.com/haroonrl/haroon.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>About Me | Haroon Ahmed</title>
+<meta name="generator" content="Jekyll v3.9.0">
+<meta property="og:title" content="About Me">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="Welcome to Haroon’s homepage.">
+<meta property="og:description" content="Welcome to Haroon Ahmed’s homepage.">
+<link rel="canonical" href="https://fengbintu.github.io/">
+<meta property="og:url" content="https://fengbintu.github.io/">
+<meta property="og:site_name" content="Fengbin Tu">
+<script type="application/ld+json">
+{"@type":"WebSite","name":"Haroon Ahmed","headline":"About Me","url":"https://fengbintu.github.io/","description":"Welcome to Haroon Ahmed’s homepage.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="./About Me _ Fengbin Tu_files/style.css">
+  </head>
+  <body data-new-gr-c-s-check-loaded="14.990.0" data-gr-ext-installed="">
+    <section class="page-header">
+      <h1 class="project-name">Haroon Ahmed</h1>
+      <h2 class="project-tagline">Welcome to Haroon Ahmed's homepage.</h2>
+      
+      
+    </section>
 
-### Markdown
+    <section class="main-content">
+      <h1 id="about-me">About Me</h1>
+<p>My name is Haroon Ahmed. I’m currently working with Prof. <a href="https://cp.kaist.ac.kr/jeehoon.kang/">Jeehoon Kang</a>, as a PhD Student at the Concurrency and Parallelism Laboratory (CPL), School of Computing, KAIST, Korea. Before joining KAIST, I received my M.E degree from the School of Electrical Engineering, Southeast University,China.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<h1 id="research-interests">Research Interests</h1>
+<p>Computer Architecture,Reconfigurable Computing, AI Hardware Accleration, Compiler Design</p>
 
-# Header 1
-## Header 2
-### Header 3
+<h1 id="professional-experience">Professional Experience</h1>
+<p>Jan. 2019 - June. 2020: <strong>FPGA Design Engineer</strong></p>
+<p>SinMir Vision (Shanghai), Co., (Pvt), Ltd, Shanghai, China</p>
 
-- Bulleted
-- List
+<h1 id="education">Education</h1>
+<p>Sep. 2015 - June. 2017: <strong>Master's of Electrical Engineering </strong></p>
+<p> <strong>Southeast University, Nanjing, China. </strong></p>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<h1 id="selected-publications">Selected Publications</h1>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haroonrl/haroon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p>Conference Papers</p>
+<ul>
+  
+  
+  <li><strong>[ISCAS’18]</strong>  R.Sun,P.Liu,C.Accetti,A.Naqvi,<strong>Haroon Ahmed</strong>,J.Qian, “A 974GOPS/W Multi-level Parallel Architecture for Binary Weight Network Acceleration,” IEEE International Symposium on Circuits and Systems (ISCAS), Florence, Italy, 2018.</li>
+</ul>
 
-### Support or Contact
+<
+<h1 id="honors-and-awards">Honors and Awards</h1>
+<ul>
+  <li>Fully-funded M.E fellowship,China. (2015-2017)</li>
+<li>KAIST Graduate fellowship. (2021-Present)</li>
+</ul>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<h1 id="contact">Contact</h1>
+<p>Address: St #5, House #49, Minhang District, Shanghai, China</p>
+
+<p>Email1: haroonrl@gmail.com</p>
+
+<p>Email2: haroon.ahmed@kaist.edu.kr</p>
+
+
+    </section>
+
+    
+  
+
+</body></html>
